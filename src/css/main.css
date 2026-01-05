@@ -12,3 +12,7 @@ img,
 video {
   display: block;
 }
+
+body {
+  background: #000;
+}
